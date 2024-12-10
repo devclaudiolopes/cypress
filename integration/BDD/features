@@ -1,0 +1,5 @@
+Feature: Home Page
+
+Scenario: Acessar a Home Page
+    Given acesso a url "https://www.advantageonlineshopping.com/#/"
+    Then visualizo a home

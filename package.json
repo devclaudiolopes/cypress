@@ -1,0 +1,19 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "- Node.js (versão LTS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claudio Lopes",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devclaudiolopes/Desafio-QA-Projeto-Plard---Claudio-Lopes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devclaudiolopes/Desafio-QA-Projeto-Plard---Claudio-Lopes/issues"
+  },
+  "homepage": "https://github.com/devclaudiolopes/Desafio-QA-Projeto-Plard---Claudio-Lopes#readme"
+}
